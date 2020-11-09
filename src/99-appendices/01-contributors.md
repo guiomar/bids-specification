@@ -124,7 +124,7 @@ If you contributed to the BIDS ecosystem and your name is not listed, please add
 -   B. Nolan Nichols 📖
 -   Thomas E. Nichols 📖📢🔧👀🚧
 -   Dylan Nielson 📖💻🔧
--   Guiomar Niso 📖💡📢
+-   Guiomar Niso 📖 💡 📢 🤔 🎨 🔍 👀 📋 📝 📆 🔧🐛 💻 🔣 ✅ 💬
 -   Michael P. Notter 💬📝✅📢📖
 -   Jeffrey G. Ojemann 📖
 -   Robert Oostenveld 📖🔧📢💡✅⚠️🤔
